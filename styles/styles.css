@@ -1,0 +1,51 @@
+nav{
+    background-color: steelblue;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    display: block;
+    padding: 20px;
+}
+
+h1{
+    color: steelblue;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+    border: 1px solid steelblue;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+}
+
+p {
+    padding: 0;
+}
+
+main {
+    max-width: 840px;
+  }
+
+aside {
+    width: 300px; /* Adjust width as needed */
+    margin: 20px 0; /* Adjust margin as needed */
+    border: 1px solid #ccc; /* Adjust border as needed */
+    padding: 10px; /* Adjust padding as needed */
+    background-color: #f9f9f9; /* Adjust background color as needed */
+    color: #333; /* Adjust text color as needed */
+    text-align: center;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+  }  
+
+/* Style footer element */
+footer {
+    margin-top: 20px; /* Add top margin to separate it from main element content */
+    border-top: 1px solid #ccc; /* Add top border for distinction */
+    text-align: center; /* Align text to the center */}
